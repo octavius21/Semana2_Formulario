@@ -1,0 +1,18 @@
+<resources>
+    //Hard Text
+    <string name="app_name">Semana2_3</string>
+    <string name="pedir_nombre">Escribe tu nombre</string>
+    <string name="pedir_fnacimiento">Escribe tu Fecha de nacimiento</string>
+    <string name="pedir_telefono">Escribe tu numero telefonico</string>
+    <string name="pedir_email">Escribe tu correo electrónico</string>
+    <string name="pedir_desccripcion">Descripción</string>
+    <string name="confirmar">Corfirmar Datos</string>
+    <string name="fnacimiento">Fecha de Nacimiento: </string>
+    <string name="tel">Tel: </string>
+    <string name="email">Email: </string>
+    <string name="descripcion">Descripcion: </string>
+    //BUTTON
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="btneditar">Editar Datos</string>
+
+</resources>
